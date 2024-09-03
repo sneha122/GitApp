@@ -18,8 +18,12 @@
   "icon": "money",
   "pages": [
     {
-      "id": "Page1",
+      "id": "First",
       "isDefault": true
+    },
+    {
+      "id": "Second",
+      "isDefault": false
     }
   ],
   "unpublishedApplicationDetail": {

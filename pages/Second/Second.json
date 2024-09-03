@@ -1,23 +1,23 @@
 {
-  "gitSyncId": "66d6d6f84b9a3b73f264522e_bbc5aa38-fe3e-478a-a71b-b154ffdde18a",
+  "gitSyncId": "66d6d7754b9a3b73f2645233_f7f07687-e60a-4943-859b-67d8bd14809c",
   "unpublishedPage": {
+    "isHidden": false,
     "layouts": [
       {
         "dsl": {
           "backgroundColor": "none",
-          "bottomRow": 5000,
+          "bottomRow": 580,
           "canExtend": true,
           "containerStyle": "none",
           "detachFromLayout": true,
           "dynamicBindingPathList": [],
-          "dynamicTriggerPathList": [],
           "leftColumn": 0,
-          "minHeight": 1292,
+          "minHeight": 550,
           "parentColumnSpace": 1,
           "parentRowSpace": 1,
-          "rightColumn": 4896,
+          "rightColumn": 1224,
           "snapColumns": 64,
-          "snapRows": 124,
+          "snapRows": 53,
           "topRow": 0,
           "type": "CANVAS_WIDGET",
           "version": 90,
@@ -26,7 +26,7 @@
         }
       }
     ],
-    "name": "Page1",
-    "slug": "page1"
+    "name": "Second",
+    "slug": "second"
   }
 }
